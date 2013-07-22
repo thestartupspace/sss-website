@@ -109,7 +109,7 @@ So we decided to take it upon ourselves – and build the online startup communi
       <hr>
 
       <div class="footer">
-        <p>&copy; The Startup Space AB 2013</p>
+        <p>&copy; The Startup Space AB 2013<br />Org. nr 556937-0926</p>
       </div>
 
     </div> <!-- /container -->
