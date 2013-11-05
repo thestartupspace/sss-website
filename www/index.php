@@ -66,35 +66,41 @@
     <div class="container-narrow">
 
       <div class="masthead">
-        
-        <h3 class="muted">The Startup Space</h3>
+
+        <h3 class="muted">The Startup Space Consulting</h3>
       </div>
 
       <hr>
 
       <div class="jumbotron">
-        <h1>We make Swedish startups connect!</h1>
-        <p class="lead">The Startup Space created a news portal dedicated to Swedish internet, technology and startups. </p>
+        <h1>Give your startup the right start!</h1>
+        <p class="lead">The Startup Space Consulting provides startups with professional consulting services within startup strategy, PR and marketing</p>
       </div>
 
       <hr>
 
       <div class="row-fluid marketing">
         <div class="span6">
-          <h4>History</h4>
+          <h4>About</h4>
+          <p>The Startup Space Consulting is headed up by Anders Hassis, Pär Häggström and James Pember. The team are the founders of <a href="http://swedishstartupspace.com">Swedish Startup Space</a>, which has quickly become Sweden's #1 online space for Swedish technology and startup news.</p>
+
+          <!--
           <p>Stockholm, Sweden is an emerging tech city – there’s no doubt about that. Spotify, Klarna, Mojang and Wrapp are just a few examples of Swedish startups that have taken the world by storm. Reuters, Entrepreneur and PandoDaily have all praised Swedish entrepreneurs and their knack for building global businesses. What struck us as odd however, was that there didn’t appear to be anywhere for these great entrepreneurs to meet online – nowhere to chat, connect and discover new companies which seem to be popping up all the time.</p>
 
           <p>At the same time – all of the buzz surrounding Stockholm and Sweden seemed to focus in on the same companies. It frustrated us that there were so many kickass startups, companies we was meeting every week – that couldn’t get any attention from the Swedish media whatsoever.</p>
 
           <p>Many companies told us that they were more comfortable pitching TechCrunch than the ‘small business’ papers here in Sweden – something we found rather confusing.
 So we decided to take it upon ourselves – and build the online startup community for Swedish companies.</p>
+        -->
+        <h4>Services</h4>
+        <p>Ideas are nothing without execution. The Startup Space Consulting can not only help with building a launch strategy, but making sure a startup has all the tools necessary to execute on it. Simply put, we'll help with all aspects of a startup launch - strategy, PR and marketing.</p>
 
-          
         </div>
 
         <div class="span6">
-          <h4>About Us</h4>
-          <p><a href="http://www.swedishstartupspace.com">Swedish Startup Space</a> was born on February 1st, 2013. The initial idea was a very basic meeting place where people could browse jobs, events and office spaces. However, very quickly it became clear that news was the key – or more specifically – people wanted to read about the companies they hadn’t heard of yet.</p>
+          <h4>Results</h4>
+          <p>Like any startup, we live and breath results and data. We'll focus on building marketing strategies that are clear, measurable and of course scalable.</p>
+
           <h4>Contact</h4>
           <p>Contact us by either sending us an email at <a href="mailto:info@thestartupspace.se">info@thestartupspace.se</a> or use one of the following:</p>
           <ul>
@@ -102,7 +108,7 @@ So we decided to take it upon ourselves – and build the online startup communi
             <li>Pär Häggström (<a href="http://twitter.com/parhaggstrom">@ParHaggstrom</a>)<br />Email: par@thestartupspace.se</li>
             <li>Anders Hassis (<a href="http://twitter.com/parse_">@parse_</a>)<br />Email: anders@thestartupspace.se </li>
           </ul>
-        
+
         </div>
       </div>
 
@@ -137,7 +143,7 @@ So we decided to take it upon ourselves – and build the online startup communi
 	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
 	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
 	  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-	
+
 	  ga('create', 'UA-39186772-3', 'thestartupspace.se');
 	  ga('send', 'pageview');
 	</script>
