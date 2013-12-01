@@ -54,11 +54,11 @@
     <![endif]-->
 
     <!-- Fav and touch icons -->
-    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="assets/ico/apple-touch-icon-144-precomposed.png">
-    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="assets/ico/apple-touch-icon-114-precomposed.png">
-      <link rel="apple-touch-icon-precomposed" sizes="72x72" href="assets/ico/apple-touch-icon-72-precomposed.png">
-                    <link rel="apple-touch-icon-precomposed" href="assets/ico/apple-touch-icon-57-precomposed.png">
-                                   <link rel="shortcut icon" href="assets/ico/favicon.png">
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="assets/img/app/icon-144x144.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="assets/img/app/icon-114x114.png">
+      <link rel="apple-touch-icon-precomposed" sizes="72x72" href="assets/img/app/icon-72x72.png">
+                    <link rel="apple-touch-icon-precomposed" href="assets/img/app/icon-57x57.png">
+                                   <link rel="shortcut icon" href="assets/img/xc1-favicon.png">
   </head>
 
   <body>
